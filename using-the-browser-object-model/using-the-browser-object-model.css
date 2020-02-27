@@ -1,0 +1,16 @@
+html{
+    background-color:darkblue;
+}
+#info{
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 9mm;
+    background-image: url(https://i.pinimg.com/originals/6d/1e/79/6d1e7928f8276b1d764180da4231ab84.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: yellow;
+}
+#info:hover{
+    color: red;
+}
